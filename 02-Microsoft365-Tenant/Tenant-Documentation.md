@@ -15,7 +15,7 @@ Configure and verify the Microsoft 365 E5 tenant to establish the foundation for
 | Tenant ID | 913454ac-4715-4d2f-ab6c-56095b107c67 |
 | Subscription | Microsoft 365 E5 Trial |
 | Status | Active |
-| Expiration | 13 July 2026 |
+| Expiration or Renewal | Renews on 7/12/2026 with 1 paid license |
 
 ---
 
