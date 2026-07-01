@@ -1,8 +1,8 @@
-# Microsoft 365 Tenant Configuration
+# Tenant Documentation
 
 ## Objective
 
-Configure and verify the Microsoft 365 E5 tenant to establish the foundation for hybrid identity, endpoint management, messaging, and security services.
+Verify that the Microsoft 365 tenant is correctly provisioned and ready for administration.
 
 ---
 
@@ -16,6 +16,7 @@ Configure and verify the Microsoft 365 E5 tenant to establish the foundation for
 | Subscription | Microsoft 365 E5 Trial |
 | Status | Active |
 | Expiration or Renewal | Renews on 7/12/2026 with 1 paid license |
+| Global Administrator | SreekalaSreedharan@examlabpractice820.onmicrosoft.com |
 
 ---
 
@@ -27,5 +28,17 @@ Configure and verify the Microsoft 365 E5 tenant to establish the foundation for
 
 ---
 
+## Tasks Completed
+
+- Accessed Microsoft 365 Admin Center
+- Verified tenant details
+- Verified tenant domain
+- Confirmed Microsoft 365 E5 subscription
+- Reviewed available licenses
+- Verified administrator account
+
+## Outcome
+
+The Microsoft 365 tenant was successfully verified and is ready for the remaining implementation phases.
 
 - Identity Administration
