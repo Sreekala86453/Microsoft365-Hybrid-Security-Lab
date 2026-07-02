@@ -36,7 +36,7 @@ The following tasks were completed:
 
 ## Documentation
 
-- Users-and-Groups.md
+- Users-Groups-and-Roles.md
 - Role-Based-Access-Control.md
 - Licensing.md
 - Validation.md
