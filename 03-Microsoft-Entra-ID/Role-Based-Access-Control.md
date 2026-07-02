@@ -96,8 +96,6 @@ The User Administrator role was assigned using Microsoft Entra Privileged Identi
 
 Assigned as an Eligible role through Microsoft Entra PIM to reduce standing administrative privileges while allowing identity administration when activated.
 
----
-
 ### Microsoft Entra Privileged Identity Management (PIM)
 
 The **User Administrator** role was assigned as an **Eligible** role using Microsoft Entra Privileged Identity Management (PIM). This implements a Just-In-Time (JIT) access model where administrative privileges are activated only when required, reducing standing privileged access and improving the organization's security posture.
