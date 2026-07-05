@@ -74,3 +74,12 @@ The following validation steps were completed:
 - Emily Davis successfully opened the mailbox in Outlook.
 - Email successfully sent from the Helpdesk mailbox.
 - Recipient successfully received the message.
+
+---
+
+## Skills Demonstrated
+
+- Shared Mailbox Administration
+- Mailbox Delegation
+- Exchange Online
+
