@@ -50,6 +50,12 @@ The Team Site serves as the primary collaboration portal where employees can:
 - Collaborate on projects
 - Maintain centralized documentation
 
+## Collaboration Model
+
+The SharePoint Team Site uses inherited site permissions to simplify administration and encourage collaboration across departments. All authorized members can access shared resources while the Site Owner retains Full Control.
+
+Advanced permission management, including unique folder permissions and sensitivity labels, will be implemented in a later phase of the Microsoft 365 Hybrid Security Lab.
+
 ---
 
 ## Validation
