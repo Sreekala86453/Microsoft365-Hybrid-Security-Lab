@@ -18,9 +18,11 @@ SharePoint permissions were configured using the default SharePoint permission g
 
 ## Permission Model
 
-The Team Site inherits permissions at the site level.
+The SharePoint Team Site uses the default SharePoint permission groups.
 
-This configuration allows all authorized members to collaborate while maintaining centralized administration.
+All authenticated site members inherit **Edit** permissions through the **Members** group, allowing them to collaborate on documents and site content.
+
+Unique permissions were not configured for individual folders or document libraries during this phase of the lab. Folder-level security will be implemented in a future advanced SharePoint and Microsoft Purview section.
 
 ---
 
