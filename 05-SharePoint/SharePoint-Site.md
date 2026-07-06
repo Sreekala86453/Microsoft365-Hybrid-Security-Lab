@@ -1,17 +1,73 @@
-## Company News
+# SharePoint Team Site
 
-A SharePoint News post was created to demonstrate internal communication capabilities within SharePoint Online.
+## Overview
 
-### News Title
+A SharePoint Team Site named **Exam Lab Collaboration** was deployed to provide a centralized collaboration platform for users within the Microsoft 365 environment.
 
-Welcome to the Microsoft 365 Collaboration Portal
+The site enables secure document sharing, departmental collaboration, company announcements, and centralized access to organizational resources.
 
-### Purpose
+---
 
-The news post introduces employees to the SharePoint collaboration site and provides guidance on available resources, collaboration features, and security best practices.
+## Site Configuration
 
-### Validation
+| Property | Value |
+|----------|-------|
+| Site Name | Exam Lab Collaboration |
+| Site Type | Team Site |
+| Privacy | Private |
+| Owner | Sreekala Sreedharan |
+| Language | English |
 
-- News post successfully created and published.
-- Content visible from the SharePoint home page.
-- Accessible to authorized site members.
+---
+
+## Members
+
+- David Wilson
+- John Smith
+- Emily Davis
+- Sarah Lee
+- Michael Brown
+
+---
+
+## Site Features
+
+- Team collaboration
+- Document management
+- Company news
+- Secure file sharing
+- Microsoft 365 Group integration
+
+---
+
+## Business Scenario
+
+The Team Site serves as the primary collaboration portal where employees can:
+
+- Access departmental documents
+- Share files securely
+- View company announcements
+- Collaborate on projects
+- Maintain centralized documentation
+
+---
+
+## Validation
+
+The following validation activities were completed:
+
+- Team Site created successfully.
+- Members added successfully.
+- Site accessible to authorized users.
+- Site navigation verified.
+- Microsoft 365 Group created automatically.
+
+---
+
+## Skills Demonstrated
+
+- SharePoint Online Administration
+- Team Site Deployment
+- Microsoft 365 Group Management
+- Collaboration Site Configuration
+- User Administration
