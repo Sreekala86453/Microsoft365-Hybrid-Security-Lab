@@ -26,7 +26,7 @@ A Team Site was created to provide centralized collaboration, document managemen
 |----------|-------------|
 | SharePoint-Site.md | Team Site deployment and configuration |
 | Document-Libraries.md | Document libraries, folders, and uploaded files |
-| Permissions.md | SharePoint permission model |
+| Permissions.md | SharePoint site permission model |
 | Validation.md | Functional testing and validation |
 | Troubleshooting.md | Common issues and resolutions |
 | Screenshots | Deployment evidence |
