@@ -2,7 +2,7 @@
 
 ## Overview
 
-Microsoft Defender Antivirus policies were configured through Microsoft Intune to strengthen endpoint protection. The name of the policy configured is Corporate Defender Policy.
+Microsoft Defender Antivirus policies were configured through Microsoft Intune to strengthen endpoint protection. The name of the policy configured is Corporate Defender Policy and is assigned to Windows Managed Devices group.
 
 ---
 
