@@ -10,7 +10,7 @@ A Windows Settings Catalog profile was created to enforce security and user conf
 
 | Property | Value |
 |----------|-------|
-| Profile Name | Corporate Windows Security Baseline |
+| Profile Name | Windows Endpoint Configuration Policy |
 | Platform | Windows 10 and later |
 | Profile Type | Settings Catalog |
 
